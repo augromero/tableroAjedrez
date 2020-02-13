@@ -1,0 +1,6 @@
+/cli.Aplicacion/bin
+/cli.Aplicacion/obj
+/cli.Tests/.vscode
+/cli.Tests/bin
+/cli.Tests/obj
+/cli.Tests/TestResults
